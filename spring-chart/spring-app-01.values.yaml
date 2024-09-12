@@ -3,3 +3,4 @@ image:
   pullPolicy: Always
   repository: askdragon/spring-helloworld
   tag: v1.0
+name: spring-app-np
